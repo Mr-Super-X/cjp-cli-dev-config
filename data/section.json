@@ -1,0 +1,16 @@
+[
+  {
+    "name": "vue3代码片段模板1",
+    "npmName": "cjp-cli-dev-template-vue3-section",
+    "description": "",
+    "version": "latest",
+    "targetPath": "./"
+  },
+  {
+    "name": "vue3代码片段模板2",
+    "npmName": "cjp-cli-dev-template-vue3-section-template",
+    "description": "",
+    "version": "latest",
+    "targetPath": "src/"
+  }
+]

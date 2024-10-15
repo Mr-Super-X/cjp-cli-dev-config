@@ -1,0 +1,24 @@
+[
+  {
+    "name": "vue3首页模板",
+    "description": "用于演示标准ejs渲染的页面模板",
+    "npmName": "cjp-cli-dev-template-vue3-template-page",
+    "version": "latest",
+    "targetPath": "src/views/home",
+    "ignore": [
+      "**/**.png"
+    ],
+    "type": "normal"
+  },
+  {
+    "name": "vue3自定义页面模板",
+    "npmName": "cjp-cli-dev-template-vue3-page-custom",
+    "description": "用于演示自定义ejs渲染的页面模板，采用vue3+vite搭建",
+    "version": "latest",
+    "targetPath": "src/views",
+    "ignore": [
+      "**/**.png"
+    ],
+    "type": "custom"
+  }
+]

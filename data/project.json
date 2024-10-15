@@ -1,0 +1,78 @@
+[
+  {
+    "name": "vue3-vite标准模板",
+    "npmName": "cjp-cli-dev-template-vue3",
+    "description": "",
+    "version": "1.0.0",
+    "type": "normal",
+    "tag": [
+      "project"
+    ],
+    "ignore": [
+      "**/public/**"
+    ],
+    "installCommand": "npm install",
+    "startCommand": "npm run dev"
+  },
+  {
+    "name": "vue3-webpack自定义模板",
+    "npmName": "cjp-cli-dev-template-vue3-admin",
+    "description": "",
+    "version": "1.0.0",
+    "type": "custom",
+    "tag": [
+      "project"
+    ],
+    "ignore": [
+      "**/public/**"
+    ]
+  },
+  {
+    "name": "通用vue3组件库模板",
+    "npmName": "cjp-cli-dev-template-vue3-component",
+    "description": "",
+    "version": "1.0.6",
+    "type": "normal",
+    "tag": [
+      "component"
+    ],
+    "ignore": [
+      "**/public/**",
+      "**/**.png"
+    ],
+    "installCommand": "npm install --registry=https://registry.npmmirror.com",
+    "startCommand": "npm run serve",
+    "buildPath": "dist",
+    "examplePath": "examples"
+  },
+  {
+    "name": "vue3-vite自定义模板",
+    "npmName": "cjp-cli-dev-template-vue3-custom",
+    "description": "",
+    "version": "1.0.0",
+    "type": "custom",
+    "tag": [
+      "project"
+    ],
+    "ignore": [
+      "**/public/**"
+    ],
+    "installCommand": "npm install",
+    "startCommand": "npm run dev"
+  },
+  {
+    "name": "vue3-webpack移动端标准模板",
+    "npmName": "cjp-cli-dev-template-vue3-webpack-mobile",
+    "description": "移动端项目，来源于水利门户粤政易端",
+    "version": "1.0.0",
+    "type": "normal",
+    "tag": [
+      "project"
+    ],
+    "ignore": [
+      "**/public/**"
+    ],
+    "installCommand": "npm install",
+    "startCommand": "npm run dev"
+  }
+]
